@@ -14,4 +14,3 @@ var facts2 = []
     facts2.push(facts[i] + "!!!")
   } return facts2
 }
-
