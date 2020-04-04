@@ -10,8 +10,8 @@ function theBeatlesPlay(musi,inst){
 function johnLennonFacts(facts){
 var facts2 = []
   let i=0
-  while(i<facts.length){
+  while(i<=facts.length){
     facts2.push(facts[i] + "!!!")
-    i =+1
+    i +=1
   } return facts2
 }
